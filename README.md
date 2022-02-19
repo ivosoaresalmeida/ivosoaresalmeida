@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ijpsalmeida/ijpsalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ivo Soares Almeida</h1>
+<h3 align="center">I'm a Developer from Portugal.</h3>
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working at Critical Software as a Software Engineer.
+  
+- 🌱 I have a degree in **Informatics Engineering Graduate at University Trás-Os-Montes e Alto-Douro (UTAD)** and now I attend **Master's Degree in Informatics Engineering at Higher Institute of Engineering of Porto (ISEP)**.
+
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ijpsalmeida?tab=repositories)**
+
+- 📫 How to contact me **ijpsalmeida@gmail.com**
+
+- ⚡ Fun fact **I like to play guitar and saxophone**
+
+
+
+
+
