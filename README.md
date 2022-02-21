@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working at Critical Software as a Software Engineer.
   
-- 🌱 I have a degree in **Informatics Engineering Graduate at University Trás-Os-Montes e Alto-Douro (UTAD)** and now I attend **Master's Degree in Informatics Engineering at Higher Institute of Engineering of Porto (ISEP)**.
+- 🌱 I have a degree in **Informatics Engineering at University Trás-Os-Montes e Alto-Douro (UTAD)** and now I attend **Master's Degree in Informatics Engineering at Higher Institute of Engineering of Porto (ISEP)**.
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/ijpsalmeida?tab=repositories)**
 
